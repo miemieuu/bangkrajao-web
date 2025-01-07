@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.1a875fb8.css",
-    "main.js": "/static/js/main.1c1c324c.js",
+    "main.js": "/static/js/main.ebf30bba.js",
     "static/js/453.66ed9ea3.chunk.js": "/static/js/453.66ed9ea3.chunk.js",
     "static/media/tutorialMuseum3.png": "/static/media/tutorialMuseum3.c7afb74253c0690ffa66.png",
     "static/media/tutorialMuseum4.png": "/static/media/tutorialMuseum4.c61e43ef05308a114285.png",
     "static/media/tutorialWat3.png": "/static/media/tutorialWat3.6838eb9b3391bf15d7e7.png",
     "static/media/tutorialWat4.png": "/static/media/tutorialWat4.982d9029e9a1551625d2.png",
     "static/media/BG2.png": "/static/media/BG2.3ea60deda4c90325cfea.png",
-    "static/media/frontTemple2.png": "/static/media/frontTemple2.78bfee2256f70c3d1a86.png",
     "static/media/antiques3.png": "/static/media/antiques3.fc363c88b8f5c094a4fd.png",
-    "static/media/antiques4.png": "/static/media/antiques4.b74ce92764c26c7911fe.png",
+    "static/media/frontTemple2.png": "/static/media/frontTemple2.9706e89532bc00e0ef2a.png",
+    "static/media/antiques5.png": "/static/media/antiques5.9968aef956be2ddf4733.png",
     "static/media/tutorialMuseum1.png": "/static/media/tutorialMuseum1.13bebab1bee6f1c8613f.png",
     "static/media/BG.png": "/static/media/BG.70915bc0b99b5467970b.png",
     "static/media/tutorialWat1.png": "/static/media/tutorialWat1.2b85c300e294aea736e3.png",
@@ -18,11 +18,11 @@
     "static/media/BuddhaSleeping.png": "/static/media/BuddhaSleeping.7e61e962ef5fcf85cc06.png",
     "static/media/tutorialWat2.png": "/static/media/tutorialWat2.c4fadf160d17011e6408.png",
     "static/media/frontTemple.png": "/static/media/frontTemple.94f8f2e0c09e1ec397e0.png",
+    "static/media/reviews.png": "/static/media/reviews.0df0e01623e5745ac087.png",
     "static/media/sideTemple.png": "/static/media/sideTemple.22431d44562f4fad698e.png",
     "static/media/payment.png": "/static/media/payment.177837d007becaf91d48.png",
     "static/media/seemsee.png": "/static/media/seemsee.26d7b047549cd959f0a1.png",
     "static/media/qrCode.png": "/static/media/qrCode.a832b405e10c532ee8fc.png",
-    "static/media/reviews.png": "/static/media/reviews.867b05c0463bfc70b729.png",
     "static/media/antiques.png": "/static/media/antiques.5c3a44cbdfd9da57601b.png",
     "static/media/stickSeemsee.png": "/static/media/stickSeemsee.f2f270399bb62f00fad1.png",
     "static/media/logo.png": "/static/media/logo.0c306dbd4f58c56c6b43.png",
@@ -32,11 +32,11 @@
     "static/media/temple.png": "/static/media/temple.e759e924fe91cfe29598.png",
     "index.html": "/index.html",
     "main.1a875fb8.css.map": "/static/css/main.1a875fb8.css.map",
-    "main.1c1c324c.js.map": "/static/js/main.1c1c324c.js.map",
+    "main.ebf30bba.js.map": "/static/js/main.ebf30bba.js.map",
     "453.66ed9ea3.chunk.js.map": "/static/js/453.66ed9ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a875fb8.css",
-    "static/js/main.1c1c324c.js"
+    "static/js/main.ebf30bba.js"
   ]
 }
