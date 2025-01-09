@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1a875fb8.css",
-    "main.js": "/static/js/main.58fdb4f4.js",
+    "main.js": "/static/js/main.ebf30bba.js",
     "static/js/453.66ed9ea3.chunk.js": "/static/js/453.66ed9ea3.chunk.js",
     "static/media/tutorialMuseum3.png": "/static/media/tutorialMuseum3.c7afb74253c0690ffa66.png",
     "static/media/tutorialMuseum4.png": "/static/media/tutorialMuseum4.c61e43ef05308a114285.png",
@@ -32,11 +32,11 @@
     "static/media/temple.png": "/static/media/temple.e759e924fe91cfe29598.png",
     "index.html": "/index.html",
     "main.1a875fb8.css.map": "/static/css/main.1a875fb8.css.map",
-    "main.58fdb4f4.js.map": "/static/js/main.58fdb4f4.js.map",
+    "main.ebf30bba.js.map": "/static/js/main.ebf30bba.js.map",
     "453.66ed9ea3.chunk.js.map": "/static/js/453.66ed9ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a875fb8.css",
-    "static/js/main.58fdb4f4.js"
+    "static/js/main.ebf30bba.js"
   ]
 }
