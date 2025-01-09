@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.1a875fb8.css",
-    "main.js": "/static/js/main.ebf30bba.js",
+    "main.js": "/static/js/main.a5d944d9.js",
     "static/js/453.66ed9ea3.chunk.js": "/static/js/453.66ed9ea3.chunk.js",
+    "static/media/frontTemple.png": "/static/media/frontTemple.b186b34c8126ab9a7cb0.png",
     "static/media/tutorialMuseum3.png": "/static/media/tutorialMuseum3.c7afb74253c0690ffa66.png",
     "static/media/tutorialMuseum4.png": "/static/media/tutorialMuseum4.c61e43ef05308a114285.png",
     "static/media/tutorialWat3.png": "/static/media/tutorialWat3.6838eb9b3391bf15d7e7.png",
@@ -15,13 +16,12 @@
     "static/media/BG.png": "/static/media/BG.70915bc0b99b5467970b.png",
     "static/media/tutorialWat1.png": "/static/media/tutorialWat1.2b85c300e294aea736e3.png",
     "static/media/antiques2.png": "/static/media/antiques2.0e5a418d1e59143cedcd.png",
-    "static/media/BuddhaSleeping.png": "/static/media/BuddhaSleeping.7e61e962ef5fcf85cc06.png",
     "static/media/tutorialWat2.png": "/static/media/tutorialWat2.c4fadf160d17011e6408.png",
-    "static/media/frontTemple.png": "/static/media/frontTemple.94f8f2e0c09e1ec397e0.png",
     "static/media/reviews.png": "/static/media/reviews.0df0e01623e5745ac087.png",
-    "static/media/sideTemple.png": "/static/media/sideTemple.22431d44562f4fad698e.png",
+    "static/media/BuddhaSleeping.png": "/static/media/BuddhaSleeping.e1295ef0831bd5a58060.png",
     "static/media/payment.png": "/static/media/payment.177837d007becaf91d48.png",
     "static/media/seemsee.png": "/static/media/seemsee.26d7b047549cd959f0a1.png",
+    "static/media/sideTemple.png": "/static/media/sideTemple.104f8c021c566ffbe2c6.png",
     "static/media/qrCode.png": "/static/media/qrCode.a832b405e10c532ee8fc.png",
     "static/media/antiques.png": "/static/media/antiques.5c3a44cbdfd9da57601b.png",
     "static/media/stickSeemsee.png": "/static/media/stickSeemsee.f2f270399bb62f00fad1.png",
@@ -32,11 +32,11 @@
     "static/media/temple.png": "/static/media/temple.e759e924fe91cfe29598.png",
     "index.html": "/index.html",
     "main.1a875fb8.css.map": "/static/css/main.1a875fb8.css.map",
-    "main.ebf30bba.js.map": "/static/js/main.ebf30bba.js.map",
+    "main.a5d944d9.js.map": "/static/js/main.a5d944d9.js.map",
     "453.66ed9ea3.chunk.js.map": "/static/js/453.66ed9ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a875fb8.css",
-    "static/js/main.ebf30bba.js"
+    "static/js/main.a5d944d9.js"
   ]
 }
